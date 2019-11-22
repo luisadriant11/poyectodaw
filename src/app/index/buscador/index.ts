@@ -3,7 +3,7 @@ import './style.css';
 
 
 /* Completar la clase Plantilla */
-import { Servicio } from "./Servici";
+import { Servicio } from "./Servicio";
 
 addListeners();
 let pal =((window.location.href).split("="))[1];
